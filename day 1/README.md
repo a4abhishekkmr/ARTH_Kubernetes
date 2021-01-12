@@ -1,10 +1,10 @@
 ### Session 01 – kubernetes//pod
-Monitoring OS
- More OS, hard to manage
- Kubernetes
- Pod
- Auto scaling
- Load balancer
- Multiple container in one mode
- Master-slave architecture
- Multi-node cluster
+<h4>Monitoring OS<br>
+ More OS, hard to manage<br>
+ Kubernetes<br>
+ Pod<br>
+ Auto scaling<br>
+ Load balancer<br>
+ Multiple container in one mode<br>
+ Master-slave architecture<br>
+ Multi-node cluster<br>
