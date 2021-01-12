@@ -1,6 +1,6 @@
 ### Session 02 – minikube//kubectl//demo
 <h1>Minikube installation<h1>
- Only support vbox
+ <h4>Only support vbox
  https://minikube.sigs.k8s.io/docs/start/ 
  Client command
  Kubectl
@@ -18,3 +18,4 @@
  Login = docker
  Password = tc-user
  Default IP for minikube VM is 100 (192.168.43.100)
+ </h4>
