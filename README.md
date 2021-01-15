@@ -10,7 +10,7 @@ services that run in containers and work together to function as a larger applic
 <h2>Title</h2>
 <h6>day1-05 January- What Kubernetes can do.
   <br>day2-07 January- Installing Kubernetes via CLI.
-  <br>day2-07 January- Installing Kubernetes via Code.
-  <br>day3-12 January-Replication Controller-LB.
-  <br>day4- 13 January-Service=>LB, Reverse Proxy-3 types.
+  <br>day3-07 January- Installing Kubernetes via Code.
+  <br>day4-12 January-Replication Controller-LB.
+  <br>day5-13 January-Service=>LB, Reverse Proxy-3 types.
   </h6>
