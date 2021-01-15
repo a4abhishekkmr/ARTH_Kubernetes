@@ -1,5 +1,6 @@
 ### day5
 <h1>Services</h1>
+<<img src="download.png" alt="Image of Service">
 <h3> Types of Services </h3>
 <h6> There are 3 different kinds of LB.
 <br>CLuster IP, NodePort, External(Load Balancer)
