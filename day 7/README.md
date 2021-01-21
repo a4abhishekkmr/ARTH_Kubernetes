@@ -1,6 +1,6 @@
 day 7 of Kubernetes
 ### Secrets
-<img src="main.png" height="200" width="600">
+<img src="main.png" height="280" width="600">
 <h4>
 In day 6, we have created 2 pods with different containers in which one stores the database(back-end) and one pod stores is Webapp(front-end) with clients only access to the front-end.
 <br>
