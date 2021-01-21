@@ -13,7 +13,7 @@ We created one environmental variables but anyone working with same level or wor
 <h4>
 •	No one can see Credentials even in Live Training.<br>
 •	I am the only one who has the access to the Database.
-<br><h4>
+<br>
 ### What is Encoding??<br><h4>
 Changing Clear Format to Encoded Data(non-readable) random letters.<br>
 For that we can take help of online Encoders and Decoders. https://www.base64encode.org/
