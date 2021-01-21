@@ -4,7 +4,7 @@
 Like we did in Yesterday’s Session, we created pods using CLI where we created all by writing commands line by line from where to pull the image and all.
 Today same thing we will do via a code. YAML code
 
-Follow the pdf for the steps and commands are mentioned below.
+##### Follow the pdf for the steps and commands are mentioned below.
 Minikube.exe start<br>
 Minikube.exe status<br>
 kubectl get pods<br>
