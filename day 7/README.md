@@ -1,5 +1,5 @@
 day 7 of Kubernetes
-### Secrets
+# Secrets
 <img src="main.png" height="240" width="600">
 
 ### Here, a concept of Secrets came which is also called as vault in other technologies. But in k8, Secrets are files where you can(Master) saves the password and the workers or developers developing with me can’t see the password.
