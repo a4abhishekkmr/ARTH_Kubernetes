@@ -6,13 +6,13 @@ In day 6, we have created 2 pods with different containers in which one stores t
 <br>
 We created one environmental variables but anyone working with same level or working in group can see that while developing. Its not user friendly. As a boss(leader) of my team I don’t want all to get access to the DB. I am the only one who will have the access. But the question is how we will do this without sharing our password. Since password is visible by describe pods(environmental variables) or by history command it is easy for the workers.
 <br>
-<b>Here, a concept of Secrets came which is also called as vault in other technologies. But in k8, Secrets are files where you can(Master) saves the password and the workers or developers developing with me can’t see the password. </b>
+<strong>Here, a concept of Secrets came which is also called as vault in other technologies. But in k8, Secrets are files where you can(Master) saves the password and the workers or developers developing with me can’t see the password. </strong>
 <br>
-<b>Benefits of Using Secrets:-</b>
-•	No one can see Credentials even in Live Training.
+<strong>Benefits of Using Secrets:-</strong>,br>
+•	No one can see Credentials even in Live Training.<br>
 •	I am the only one who has the access to the Database.
 <br>
-<b>What is Encoding??<b><br>
+<strong>What is Encoding??<strong><br>
 Changing Clear Format to Encoded Data(non-readable) random letters.<br>
 For that we can take help of online Encoders and Decoders. https://www.base64encode.org/
 <img src="encode-decode.png">
