@@ -13,4 +13,6 @@ services that run in containers and work together to function as a larger applic
   <br>day3-07 January- Installing Kubernetes via Code.
   <br>day4-12 January-Replication Controller-LB.
   <br>day5-13 January-Service=>LB, Reverse Proxy-3 types.
+  <br>day6-19 January-Multi-tier app- MySQL db + PHP.
+  <br>day7-20 January-Secret Box, Encryption[base 64].
   </h6>
