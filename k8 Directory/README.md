@@ -1,5 +1,5 @@
 # Files used in Directory
-<img src="1.jpg">
+<img src="1.jpg" height="50%" width="50%">
 <br>
 ### List
 <br>
