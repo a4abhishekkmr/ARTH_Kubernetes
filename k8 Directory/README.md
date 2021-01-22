@@ -1,8 +1,7 @@
 # Files used in Directory
-<img src="1.jpg" height="50%" width="50%">
-<br>
+<img src="1.jpg">
 ### List
-<br>
+
 pod.yml -day 3<br>
 rc.yml -day 4<br>
 pod5.yml -day 5<br>
